@@ -5,7 +5,7 @@
 + I have a long journey to chase my dream as a **full Web developer**
 + Techologies that i have used :
   
-![Alt text](https://scontent.fpnh12-1.fna.fbcdn.net/v/t39.30808-6/405216043_315154414796145_4545288572151721053_n.png?_nc_cat=103&ccb=1-7&_nc_sid=783fdb&_nc_ohc=wMOQjkoaBsQAX9end9V&_nc_ht=scontent.fpnh12-1.fna&oh=00_AfCyDYJHqH7Lt3WYhrOYlm7IsoW6igJYZPMP-C2G2sMSwQ&oe=65A2BE41)
+![Alt text](https://scontent.fpnh1-2.fna.fbcdn.net/v/t39.30808-6/405216043_315154414796145_4545288572151721053_n.png?_nc_cat=103&ccb=1-7&_nc_sid=783fdb&_nc_ohc=QAXfVNP2xHYAX9HBuxa&_nc_ht=scontent.fpnh1-2.fna&oh=00_AfAeKtFl1OVJCppNBHL06nyLxcgH3X_sqjlAGsIkmQBr0w&oe=65B684C1)
 ## Detail About Me
 + I am a Full stack developer who passionate about making website.Creating technologies to enverlate people and building community. Some technologies i enjoy working including HTML CSS JavaScript and also Framework including CSS framework like TailwindCSS,Bootstrap and JavaScript framework like React js and i also integrate backend and Database such as Node js, Express js database Mongodb and Mysql.
 ## Follow me 

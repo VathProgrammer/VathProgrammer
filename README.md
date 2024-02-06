@@ -5,7 +5,7 @@
 + I have a long journey to chase my dream as a **full Web developer**
 + Techologies that i have used :
   
-![Alt text](https://scontent.fpnh2-1.fna.fbcdn.net/v/t39.30808-6/405216043_315154414796145_4545288572151721053_n.png?_nc_cat=103&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeF63hD4llnFxaeqjhfqPmz_44ZDjqjlZynjhkOOqOVnKY_L6gL84CwxieOJPqsoytXNTKFWfJ0yd0YdR6muJJSi&_nc_ohc=qNAQC2MfwLQAX8btjjW&_nc_zt=23&_nc_ht=scontent.fpnh2-1.fna&oh=00_AfAyFFh9FfnxG7yEF7uw_RcdBFMt5pn5ytX8I_lc7fnejg&oe=65BE6DC1)
+![Alt text](https://scontent.fpnh8-1.fna.fbcdn.net/v/t39.30808-6/405216043_315154414796145_4545288572151721053_n.png?stp=dst-png_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeF63hD4llnFxaeqjhfqPmz_44ZDjqjlZynjhkOOqOVnKY_L6gL84CwxieOJPqsoytXNTKFWfJ0yd0YdR6muJJSi&_nc_ohc=wzYPbOF8WNcAX8buM2T&_nc_zt=23&_nc_ht=scontent.fpnh8-1.fna&oh=00_AfCM3LqUj9p6WghjxNmjEKLkxHszZvwSStRcODKdPlNywg&oe=65C656C1)
 ## Detail About Me
 + I am a Full stack developer who passionate about making website.Creating technologies to enverlate people and building community. Some technologies i enjoy working including HTML CSS JavaScript and also Framework including CSS framework like TailwindCSS,Bootstrap and JavaScript framework like React js and i also integrate backend and Database such as Node js, Express js database Mongodb and Mysql.
 ## Follow me 
